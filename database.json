@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "r@t.cl",
+      "password": "$2b$10$.H45KjioQEIUn68fG4h8tO5d4nL5HVt3OeyQqBJiFbFHmMombAbZ2"
+    },
+    {
+      "email": "eeded@e.cl",
+      "password": "$2b$10$orQd9jxBvsLu78KYpvLplukZuD5sJr6/b.z6cp6gupjG5apM.iItC"
+    }
+  ]
+}
